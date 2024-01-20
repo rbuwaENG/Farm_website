@@ -22,7 +22,8 @@ Webpagelink: http://redrooster.42web.io/index.html
 
 # Red Rooster Farm
 
-![Red Rooster Farm Logo](link_to_logo_image.png)
+![Red Rooster Farm Logo]([link_to_logo_image.png](https://github.com/rbuwaENG/Farm_website/blob/main/pages/home.JPG?raw=true))
+</br>
 
 Red Rooster Farm is an agricultural and livestock production farm located in Brussels City, Belgium. The farm produces a variety of agricultural and livestock products, including vegetables, fruits, dairy, and meat products, for the people of Brussels.
 
